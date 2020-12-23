@@ -1,0 +1,6 @@
+﻿  LB_4.cpp
+C:\Users\spider\Desktop\Programm\LB_4\LB_4\LB_4.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spider\Desktop\Programm\LB_4\LB_4\LB_4.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spider\Desktop\Programm\LB_4\LB_4\LB_4.cpp(94,19): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\spider\Desktop\Programm\LB_4\LB_4\LB_4.cpp(162,39): warning C4018: '<': signed/unsigned mismatch
+  LB_4.vcxproj -> C:\Users\spider\Desktop\Programm\LB_4\Debug\LB_4.exe
